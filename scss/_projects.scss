@@ -99,15 +99,15 @@
 .projects__item:first-child::after {
   content: "A web app designed for managing home poker games built with React, MongoDb & NodeJs.";
   padding-left: 20px;
-  padding-top: 40px;
+  padding-top: 10px;
 }
 .projects__item:nth-child(2)::after {
   content: "A blog like app built with PHP & Mysql";
   padding-left: 20px;
-  padding-top: 40px;
+  padding-top: 10px;
 }
 .projects__item:nth-child(3)::after {
   content: "Coming Soon...";
   padding-left: 20px;
-  padding-top: 40px;
+  padding-top: 10px;
 }
