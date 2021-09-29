@@ -102,16 +102,21 @@
   padding-top: 10px;
 }
 .projects__item:nth-child(2)::after {
-  content: "E-commerce shop bulit with Laravel 8,including Admin panel for managing products & orders and a connection to Paypal Api for payments";
+  content: "E-commerce shop built with wordpress by elementor & blocksy";
   padding-left: 5px;
   padding-top: 10px;
 }
 .projects__item:nth-child(3)::after {
-  content: "A blog like app built with PHP & Mysql";
+  content: "E-commerce shop bulit with Laravel 8,including Admin panel for managing products & orders and a connection to Paypal Api for payments";
   padding-left: 5px;
   padding-top: 10px;
 }
 .projects__item:nth-child(4)::after {
+  content: "A blog like app built with PHP & Mysql";
+  padding-left: 5px;
+  padding-top: 10px;
+}
+.projects__item:nth-child(5)::after {
   content: "Coming Soon...";
   padding-left: 5px;
   padding-top: 10px;
